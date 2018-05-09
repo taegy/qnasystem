@@ -1,5 +1,8 @@
 # AI
 A weather QnA system<br><br>
+
+.cpp source code is located in AI folder with some libraries.
+<br>
 Some example sentences to the "input:"
 <br>
 오늘 날씨 어때?
