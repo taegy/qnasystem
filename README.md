@@ -1,5 +1,5 @@
 # AI
-Weather QnA system<br><br>
+A weather QnA system<br><br>
 Some example sentences to the "input:"
 <br>
 오늘 날씨 어때?
