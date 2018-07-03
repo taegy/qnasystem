@@ -6,11 +6,9 @@ Some possible sentences to the "input:" can be
 <br>
 오늘 날씨 어때?
 <br>
-오늘 서울의 최고온도는?
+내일 비가 오니?
 <br>
 서울과 부산 중 어디가 더워?
-<br>
-내일 비가 오니?
 <br>
 오늘 어제보다 추워?
 <br><br>
