@@ -1,5 +1,5 @@
 # AI
-A weather QnA system accept accepts weather-related questions and answers the questions.<br><br>
+A weather QnA system accepts weather-related questions and answers the questions.<br><br>
 .cpp source code is located in AI folder with some libraries.
 <br>
 Some example sentences to the "input:"
