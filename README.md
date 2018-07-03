@@ -16,4 +16,4 @@ Four types of questions are available.<br>
 3. Regional comparison question : It is a specific weather factor comparison between the two regions. Possible areas are as follows; 강원도, 경기도, 경상남도, 경상북도, 광주, 대구, 대전, 부산, 서울, 세종, 울산, 인천, 전라남도, 전라북도, 제주, 충청남도, 충청북도<br>
 4. Date Comparison Question : It is a specific weather factor comparison between two dates. Possible dates are as follows; 어제, 오늘, 내일, 모레<br>
 <br>
-Unfortunately, only Korean language is available now and Korea all weather information used in this project are attained from  Meteorological Office(kma.go.kr).
+Unfortunately, only Korean language is available now and all weather information used in this project are attained from Korea  Meteorological Administration.
