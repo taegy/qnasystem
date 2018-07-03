@@ -8,7 +8,6 @@ Some possible sentences to the "input:" are as follows.
 2. 내일 비가 오니?<br>
 3. 서울과 부산 중 어디가 더워?<br>
 4. 오늘 어제보다 추워?<br>
-<br>
 Four types of questions are available.<br>
 1. Overall weather question : The words that mean the date and the weather are needed, and the base area is Seoul.<br>
 2. Weather factor question : It is about the specific weather element and the weather factor available is as follows; 비, 눈, 습도, 온도, 바람, 일교차, 최고온도, 최저온도. Also, several words that have similar meaning can be recognized and the collection of words exists in db.txt.<br>
