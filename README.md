@@ -4,10 +4,10 @@ The source code file is located in AI folder with some libraries.
 <br>
 Some possible sentences to the "input:" are as follows.
 <br>
-1. 오늘 날씨 어때?<br>
-2. 내일 비가 오니?<br>
-3. 서울과 부산 중 어디가 더워?<br>
-4. 오늘 어제보다 추워?<br>
+오늘 날씨 어때?<br>
+내일 비가 오니?<br>
+서울과 부산 중 어디가 더워?<br>
+오늘 어제보다 추워?<br>
 <br>
 Four types of questions are available.<br>
 <br>
