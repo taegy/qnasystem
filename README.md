@@ -1,8 +1,8 @@
 # AI
-A weather QnA system accepts weather-related questions and answers the questions.<br><br>
+A weather QnA system accepts weather-related questions and answers the questions.<br>
 The source code file is located in AI folder with some libraries.
 <br>
-Some example sentences to the "input:"
+Some possible sentences to the "input: can be"
 <br>
 오늘 날씨 어때?
 <br>
